@@ -1,0 +1,39 @@
+.container {
+  display: grid;
+  place-items: center;
+  height: 100%;
+}
+
+.number {
+  font-size: 100px;
+}
+
+.btn-acrescentar {
+  border: none;
+  background-color: #96f20c;
+  color: #fff;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.btn-diminuir {
+  border: none;
+  background-color: #ff2f20;
+  color: #fff;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.positive {
+  color: #96f20c;
+}
+
+.negative {
+  color: #ff2f20;
+}
