@@ -11,7 +11,8 @@
 .btn-acrescentar {
   border: none;
   background-color: #96f20c;
-  color: #fff;
+  color: #333;
+  font-weight: bold;
   width: 150px;
   height: 40px;
   border-radius: 10px;
@@ -22,7 +23,8 @@
 .btn-diminuir {
   border: none;
   background-color: #ff2f20;
-  color: #fff;
+  color: #333;
+  font-weight: bold;
   width: 150px;
   height: 40px;
   border-radius: 10px;
